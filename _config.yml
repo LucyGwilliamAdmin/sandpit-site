@@ -13,9 +13,9 @@ remote_data_prefix: "https://lucygwilliamadmin.github.io/sandpit-data"
 # In the next few items, replace "open-sdg" with the name of your GitHub
 # organization, and "open-sdg-data-starter" with the name of your data repository.
 # URL for the "Edit Data" button on indicators.
-data_edit_url: http://prose.io/#open-sdg/open-sdg-data-starter/edit/develop/data/indicator_[id].csv
+data_edit_url: http://prose.io/#lucygwilliamadmin/sandpit-data/edit/1.4.0-dev/data/indicator_[id].csv
 # URL for the "Edit Metadata" button on indicators.
-metadata_edit_url: http://prose.io/#open-sdg/open-sdg-data-starter/edit/develop/meta/[id].md
+metadata_edit_url: http://prose.io/#lucygwilliamadmin/sandpit-data/edit/1.4.0-dev/meta/[id].md
 #
 # The list of languages that are translated. The first one is the default.
 languages:
