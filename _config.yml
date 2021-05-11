@@ -25,7 +25,7 @@ languages:
 # That's enough for the Quick Start! The remaining settings can be configured later.
 
 # Tell the Remote Theme plugin to use the Open SDG platform (Jekyll theme).
-remote_theme: brockfanning/open-sdg@global-metadata-styles
+remote_theme: brockfanning/open-sdg@remote-disaggregation-control-percentages
 
 # Replace this title as needed.
 title: general.site_title
