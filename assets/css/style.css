@@ -1250,6 +1250,14 @@ body.contrast-high #map a {
 body.contrast-high #map .selection-legend .legend-values li, body.contrast-high #map .selection-legend .legend-values span, body.contrast-high #map .selection-legend #selection-list li, body.contrast-high #map .selection-legend #selection-list span {
   color: black; }
 
+#global td > h1:first-of-type {
+  display: none; }
+#global td > h2:first-of-type {
+  display: none; }
+#global td > h2 {
+  font-size: inherit;
+  font-weight: bold; }
+
 body {
   background: white url("../img/sdgbg.png") top left repeat-x;
   padding-top: 15px; }
